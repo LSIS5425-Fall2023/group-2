@@ -12,9 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About this Site
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Your Guide to European Adventures in Retirement: Here you will find an online resource dedicated to senior citizens and retirees who are contemplating and planning to embark on memorable travels across Europe. Our page offers a variety of guidebooks, ebooks, memoirs, and other resources that can help mature travelers by offering a wealth of information to ensure a safe, enriching, an enjoyable experience. 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
